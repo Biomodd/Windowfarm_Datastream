@@ -8,9 +8,11 @@ https://cosm.com/feeds/83640
 
 
 To Use:
- 1. Clone this repository and open in processing
+ 1. Copy examples to your Processing directory
 
- 2. Current variables include:
+ 2. Copy 'cosm' folder in libraries to your Processing libraries directory
+
+ 3. Current variables include:
 
     moistureVal -> // moisture value 
 
@@ -18,4 +20,4 @@ To Use:
 
     temperatureValue  -> // moisture 
 
- 3. Data is uploaded from the Windowfarm once every minute. 
+ 4. Data is uploaded from the Windowfarm once every minute. 
