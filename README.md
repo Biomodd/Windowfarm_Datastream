@@ -21,3 +21,16 @@ To Use:
     temperatureValue  -> // moisture 
 
  4. Data is uploaded from the Windowfarm once every minute. 
+
+
+Examples
+=====================
+
+windowfarm_get_simple
+- returns recent moisture, light, temp readings
+
+windowfarm_get_feed	
+- returns recent moisture, light, temp readings with additional feed data
+
+windowfarm_metadata
+- returns all data from the feed including: elevation, lat, long
