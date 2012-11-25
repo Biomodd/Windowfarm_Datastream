@@ -18,4 +18,4 @@ To Use:
 
     temperatureValue  -> // moisture 
 
- 3. Data is uploaded from the Windowfarm once every minute. The parser is currently set to update receive at the same rate.
+ 3. Data is uploaded from the Windowfarm once every minute. 
