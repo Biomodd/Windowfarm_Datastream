@@ -34,3 +34,5 @@ windowfarm_get_feed
 
 windowfarm_metadata
 - returns all data from the feed including: elevation, lat, long
+
+there are additional examples in the libraries/cosm/examples folder
