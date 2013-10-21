@@ -18,7 +18,7 @@ To Use:
 
     lightValue -> // temperature 
 
-    temperatureValue  -> // moisture 
+    temperatureValue  -> // temperature (near front window) 
 
  4. Data is uploaded from the Windowfarm once every minute. 
 
